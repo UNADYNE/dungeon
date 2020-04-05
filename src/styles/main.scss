@@ -1,0 +1,16 @@
+.game-window-wrapper {
+  height: 80vh;
+  width: 80vw;
+  margin: 2rem 0 0 10%;
+  padding: 1rem;
+  background-color: #809ec4;
+  border-radius: 5px;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.5);
+}
+
+#game-window {
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.8);
+}
